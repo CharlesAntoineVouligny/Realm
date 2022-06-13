@@ -37,7 +37,7 @@ export default function Home() {
         <Container>
           <Hero />
           <Category
-            category="Tech Wear"
+            category="All Products"
             categoryCount={`${products.length} Products`}
           />
           <Products products={products} />

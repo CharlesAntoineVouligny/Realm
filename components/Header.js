@@ -99,7 +99,7 @@ const Header = () => {
                 className="mt-3 text-gray-600 hover:underline sm:mx-3 sm:mt-0"
                 href="#"
               >
-                <Link href="/products/category">Categories</Link>
+                <Link href="/category">Categories</Link>
               </div>
               <a
                 className="mt-3 text-gray-600 hover:underline sm:mx-3 sm:mt-0"
